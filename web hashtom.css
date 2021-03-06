@@ -26,7 +26,7 @@ body{
 
 .school-section{
 	display:flex;
-    padding:5px;
+
 	margin:left;
 	width:450px;
 }
@@ -42,7 +42,7 @@ body{
 }
 
 .category-heading{
-	color:#ff0808;
+	color:#32cd32;
 	font-size:30px;
 }
 
