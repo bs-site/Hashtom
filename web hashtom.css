@@ -1,11 +1,7 @@
 /*rang safe header*/
 
 body{
-   background: url("images/black-hole-wallpaper.jpg") no-repeat center center fixed;
-   -webkit-background-size: cover;
-   -moz-background-size: cover;
-   -o-background-size: cover;
-   background-size: cover;
+   background-color: #00ecff;
 	font-family:'open Sans' ,sans-serif;
 	margin:0;
 }
@@ -17,7 +13,7 @@ body{
 }
 
 .main-heading{
-	 color:#f0ff00;
+	 color:#8dd809;
 	 font-size:70px;
    text-align:center;
 }
@@ -34,23 +30,15 @@ body{
          padding: 10px;
          max-width: 300px;
          height: 300px;
-         border: 3px solid red;
+         border: 5px ;
+          border-style: solid;
+          border-color:#ffffff;
          text-align: center;
-         background-color:#696969;
+         background-color:#0900ff;
  
       }
 
-      .new-art{
-         color: #000099;
-         float: right;
-         margin: 10px;
-         padding: 10px;
-         max-width: 300px;
-         height: 300px;
-         border: 3px solid red;
-         text-align: center;
-         background-color: blue;
-}
+
 .color-summary{
 	 color:#FFC122;
 	 font-size:25px;
@@ -82,6 +70,10 @@ body{
 	 font-size:20px; 
 }
 
+.back-list{
+  color:#00ecff;
+}
+
 .back-link{
 	  color: black;
          float: left;
@@ -91,9 +83,9 @@ body{
          height: 30px;
          border: 6px ;
           border-style: solid;
-          border-color: #00FFFF;
+          border-color: #d80909;
          text-align: center;
-         background-color: #f0ff00; 
+         background-color: #feff67; 
 }
 
 
